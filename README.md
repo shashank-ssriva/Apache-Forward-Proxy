@@ -9,6 +9,7 @@ Installation is as easy as it can be on any Ubuntu system. Just execute : -
 ```
 root@shashank-dbserver:/home/shashank# dpkg -i apache-forward-proxy_1.0-1_all.deb
 ```
+You can get the ``.deb`` package from [here](https://github.com/shashank-ssriva/Apache-Forward-Proxy/releases)
 
 ## Usage
 After installing, it is available as a command called ``apache-forward-proxy``. Just run it & it will take care of rest of the things :-)
